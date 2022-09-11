@@ -9,3 +9,6 @@ Make a shortcut that opens any folder, no matter the path:
 ## How it works
 
 Download the [7-Zip SFX](https://github.com/RetroPlayerYT/MyPrimaryFolder-Builds/releases/download/v1.x/MyPrimaryFolder.exe) and extract it.
+
+Launch *main.py*.
+![](explorer_FAMoWYZnQl.png)
