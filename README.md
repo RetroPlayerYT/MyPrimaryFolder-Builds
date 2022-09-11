@@ -19,3 +19,5 @@ Launch *main.py*.
 Type **setup**.
 
 ![](py_MjFneFaOph.png)
+
+First off, type **in**. This will install all of the required python packages.
