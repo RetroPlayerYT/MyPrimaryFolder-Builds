@@ -15,3 +15,7 @@ Download the [7-Zip SFX](https://github.com/RetroPlayerYT/MyPrimaryFolder-Builds
 Launch *main.py*.
 
 ![](explorer_FAMoWYZnQl.png)
+
+Type **setup**.
+
+![](py_MjFneFaOph.png)
