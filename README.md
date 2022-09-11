@@ -2,4 +2,4 @@
 ...Because cleaning your desktop can be annoying.
 
 Make a shortcut that opens any folder, no matter the path:
-![](https://i.imgur.com/3v03pEt.gif)
+![](explorer_PSuYrr7z4T.gif)
