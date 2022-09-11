@@ -5,3 +5,7 @@ Made with  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-ba
 
 Make a shortcut that opens any folder, no matter the path:
 ![](explorer_PSuYrr7z4T.gif)
+
+## How it works
+
+Download the [7-Zip SFX](https://github.com/RetroPlayerYT/MyPrimaryFolder-Builds/releases/download/v1.x/MyPrimaryFolder.exe) and extract it.
